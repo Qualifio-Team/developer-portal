@@ -1,12 +1,12 @@
 module.exports = {
   title: 'Qualifio Developer Portal',
   tagline: 'By developers for developers',
-  url: 'https://developer.qualifio.com',
-  baseUrl: '/',
+  url: 'https://qualifio-team.github.io/',
+  baseUrl: '/developer-portal/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'Qualifio', // Usually your GitHub org/user name.
+  organizationName: 'Qualifio-Team', // Usually your GitHub org/user name.
   projectName: 'developer-portal', // Usually your repo name.
   themeConfig: {
     navbar: {
