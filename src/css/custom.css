@@ -17,14 +17,11 @@
   --ifm-color-primary-lighter: #fcb351;
   --ifm-color-primary-lightest: #fdc57b;
   --ifm-code-font-size: 95%;
-  font-family: 'Raleway', sans-serif;
-}
-
-.footer {
   --ifm-footer-background-color: #12384a;
   --ifm-footer-color: var(--ifm-footer-link-color);
   --ifm-footer-link-color: var(--ifm-color-secondary);
   --ifm-footer-title-color: var(--ifm-color-white);
+  font-family: 'Raleway', sans-serif;
 }
 
 .docusaurus-highlight-code-line {
